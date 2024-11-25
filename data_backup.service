@@ -2,4 +2,4 @@
 Description=Make Data-Backup
 
 [Service]
-ExecStart=/home/Dennis1/backup_data.py
+ExecStart=/home/USER/backup_data.py
