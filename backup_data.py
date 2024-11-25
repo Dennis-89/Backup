@@ -8,12 +8,12 @@ from email.mime.text import MIMEText
 from pathlib import Path
 
 BACKUP_PATH = Path("/media/Data_Backup/")
-DATA_PATH = Path("/media/HugosWolke/")
+DATA_PATH = Path("/media/xxx/")
 
 EMAIL_HOST = "mail.gmx.net"
-FROM_EMAIL = "straub.dennis@gmx.de"
-EMAIL_PASSWORD = "DgSSgad59!"
-TO_EMAIL = "straub.dennis1@web.de"
+FROM_EMAIL = "xxx@yyy.de"
+EMAIL_PASSWORD = "xxxx"
+TO_EMAIL = "xxx@zzz.de"
 
 
 def search_old_backups(date_today):
